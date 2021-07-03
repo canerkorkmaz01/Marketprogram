@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market_Programı", "Market_Programı\Market_Programı.csproj", "{00CE9247-795A-49E2-8CFE-5E602C972CEE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D3213178-983B-4BEB-A388-330A46643734} = {D3213178-983B-4BEB-A388-330A46643734}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM", "ORM\ORM.csproj", "{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table", "Table\Table.csproj", "{D3213178-983B-4BEB-A388-330A46643734}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DOKUNMATİK MARKET PROGRAMI", "DOKUNMATİK MARKET PROGRAMI\DOKUNMATİK MARKET PROGRAMI.vdproj", "{5B6BAD51-2760-4796-881F-1FFCB6F3992F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CE9247-795A-49E2-8CFE-5E602C972CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CE9247-795A-49E2-8CFE-5E602C972CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CE9247-795A-49E2-8CFE-5E602C972CEE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{00CE9247-795A-49E2-8CFE-5E602C972CEE}.Debug|x86.Build.0 = Debug|Any CPU
+		{00CE9247-795A-49E2-8CFE-5E602C972CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CE9247-795A-49E2-8CFE-5E602C972CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CE9247-795A-49E2-8CFE-5E602C972CEE}.Release|x86.ActiveCfg = Release|x86
+		{00CE9247-795A-49E2-8CFE-5E602C972CEE}.Release|x86.Build.0 = Release|x86
+		{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}.Debug|x86.Build.0 = Debug|Any CPU
+		{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}.Release|x86.ActiveCfg = Release|Any CPU
+		{964ACE74-4CC1-43B9-A4B1-20F0D05F0C64}.Release|x86.Build.0 = Release|Any CPU
+		{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}.Debug|x86.Build.0 = Debug|Any CPU
+		{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}.Release|x86.ActiveCfg = Release|Any CPU
+		{7D8085F9-BFF5-4455-B83E-CBDCC16E0121}.Release|x86.Build.0 = Release|Any CPU
+		{D3213178-983B-4BEB-A388-330A46643734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3213178-983B-4BEB-A388-330A46643734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3213178-983B-4BEB-A388-330A46643734}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D3213178-983B-4BEB-A388-330A46643734}.Debug|x86.Build.0 = Debug|Any CPU
+		{D3213178-983B-4BEB-A388-330A46643734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3213178-983B-4BEB-A388-330A46643734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3213178-983B-4BEB-A388-330A46643734}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3213178-983B-4BEB-A388-330A46643734}.Release|x86.Build.0 = Release|Any CPU
+		{5B6BAD51-2760-4796-881F-1FFCB6F3992F}.Debug|Any CPU.ActiveCfg = Debug
+		{5B6BAD51-2760-4796-881F-1FFCB6F3992F}.Debug|x86.ActiveCfg = Debug
+		{5B6BAD51-2760-4796-881F-1FFCB6F3992F}.Release|Any CPU.ActiveCfg = Release
+		{5B6BAD51-2760-4796-881F-1FFCB6F3992F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
